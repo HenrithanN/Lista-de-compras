@@ -159,4 +159,12 @@ body {
   text-decoration: line-through;
 }
 
+.content-data { 
+  color: #F6F1D1;
+  display: flex;
+  justify-content: flex-start;
+  margin-bottom: 0.5rem;
+  padding: 1rem 3rem;
+}
+
 /*# sourceMappingURL=style.css.map */
